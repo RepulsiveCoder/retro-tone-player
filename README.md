@@ -3,10 +3,9 @@
 ![RetroTone Player Thumbnail](assets/retro-tone-player.png)
 
 
-**Year:** 2003
-
-**Built with:** Macromedia Flash MX & ActionScript
-
+**Author:** Abdullah Ibne Alam <br />
+**Date:** February 22, 2005 <br />
+**Built with:** Macromedia Flash MX & ActionScript <br />
 **Live Demo:** [🔗 https://demo.repulsivecoder.pro/retro-tone-player/](https://demo.repulsivecoder.pro/retro-tone-player/)
 
 ---
